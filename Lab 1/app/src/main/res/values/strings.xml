@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Money</string>
+    <string name="author">Your Name</string>
+    <string name="computer">Your Computer</string>
+    <string name="input_money">Your Money</string>
+    <string name="usd_name">US Dollar</string>
+    <string name="eur_name">European</string>
+    <string name="gbp_name">Greate Britain</string>
+    <string name="aud_name">Australia Dollar</string>
+    <string name="cad_name">Canada Dollar</string>
+    <string name="zar_name">South Africa Dollar</string>
+    <string name="nzd_name">New Zealand Dollar</string>
+    <string name="vnd_name">VietNam Dong</string>
+    <string name="inr_name">India Rupe</string>
+    <string name="jpy_name">Japan Yen</string>
+    <string name="usd_unit">USD</string>
+    <string name="eur_unit">EUR</string>
+    <string name="gbp_unit">GBP</string>
+    <string name="inr_unit">INR</string>
+    <string name="aud_unit">AUD</string>
+    <string name="cad_unit">CAD</string>
+    <string name="zar_unit">ZAR</string>
+    <string name="nzd_unit">NZD</string>
+    <string name="jpy_unit">JPY</string>
+    <string name="vnd_unit">VND</string>
+</resources>
