@@ -24,13 +24,13 @@
             android:layout_weight="1" />
     </LinearLayout>
 
-    <ScrollView
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="9">
-        <TableLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+<!--    <ScrollView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height=""-->
+<!--        android:layout_weight="9">-->
+<!--        <TableLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content">-->
             <TableRow
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
@@ -221,7 +221,7 @@
                     android:layout_weight="1"
                     android:gravity="center"/>
             </TableRow>
-        </TableLayout>
-    </ScrollView>
+<!--        </TableLayout>-->
+<!--    </ScrollView>-->
 
 </LinearLayout>
